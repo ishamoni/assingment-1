@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+strong{
+    color: rgb(15, 1, 4);
+}
+.top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+.Top Img{
+    margin: 60px 0;
+}
+.top p{
+    width: 700px;
+}
+button{
+    background-color: orange;
+    color: antiquewhite;
+    border-radius: 8px;
+    border: none;
+    padding: 10px;
+    margin: 50px;
+}
+.madal{
+    display: flex;
+    background-image: url(./7.png);
+    background-repeat: no-repeat;
+}
+.madal img{
+    margin: 50px 100px;
+    padding-left: 90px;
+}
+.madal p{
+    width:600px;
+}
+.about{
+    margin-left: 80px;
+    padding: 50px;
+}
+.paragraps{
+    align-items: center;
+    padding: 30px;
+    margin-left: 400px;
+    width: 500px;
+}
+.myre{
+    background-color: beige;
+    border-style: solid;
+    border: none;
+    border-radius: 10px;
+}
+.Racipies{
+    display: flex;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 450px;
+    padding-left: 100px;
+}
+.Recipie{
+    background-color: rgb(227,243,243);
+    margin: 100px;
+    padding: 20px;
+    border-style: solid;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 3px 1px 10px 1px;
+}
+.k{
+    display: flex;
+    background-color: rgb(245, 240,240);
+    border-style: solid;
+    border: none;
+    border-radius: 7px;
+}
+.l{
+    margin-left: 160px;
+    text-align: center;
+    align-items: center;
+    padding: 70px;
+}
+footer{
+    background-color: black;
+    color: antiquewhite;
+    padding: 30px 0;
+    text-align: center;
+}
